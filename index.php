@@ -22,6 +22,7 @@ if ($action == "size_option"){
         
     }else {
         
+        $size_option = "medium";
         $size_price = 7.00;
         $toppings_multiplier = 1.00;
         
